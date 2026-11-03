@@ -1,0 +1,6 @@
+{
+  "name": "Class 12 Academic Hub",
+  "description": "Class 12 Ultimate Academic Hub featuring Science & Humanities streams, NCERT library, study planner, focus engine, spaced repetition revision, and AI tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
